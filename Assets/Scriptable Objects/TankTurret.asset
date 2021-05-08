@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc2e5178e7faeb943bc1320771d2fccd, type: 3}
+  m_Name: TankTurret
+  m_EditorClassIdentifier: 
+  TurretPrefab: {fileID: 3281944549744678343, guid: c70c644b74f552b4481c82c74222d980, type: 3}
+  TurretShopCost: 50
+  TurretShopSprite: {fileID: 21300000, guid: 4d8e7a93f322a0e4e8d4c2b04419f8c1, type: 3}
